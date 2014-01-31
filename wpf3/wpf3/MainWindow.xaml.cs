@@ -29,7 +29,7 @@ namespace wpf3
         {
 
         }
-
+        //マックで入れたコメント
         private void CheckBox_Checked(object sender, RoutedEventArgs e)
         {
 
